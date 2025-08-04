@@ -27,7 +27,7 @@ Permite a los usuarios agregar nombres a una lista y luego seleccionar uno aleat
 
 ## 📦 Estructura del proyecto
 secretFriend/
-├── index.html # Página principal
-├── style.css # Estilos básicos (si separamos el CSS)
-├── script.js # Lógica de la aplicación
-└── README.md # Este archivo :)
+├── index.html/ Página principal
+├── style.css /Estilos básicos (si separamos el CSS)
+├── script.js / Lógica de la aplicación
+└── README.md / Este archivo :)
